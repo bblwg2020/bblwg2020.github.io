@@ -1,0 +1,3 @@
+[submodule "rapidchiplet"]
+	path = rapidchiplet
+	url = https://github.com/bblwg2020/rapidchiplet.git
